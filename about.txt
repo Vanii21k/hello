@@ -1,3 +1,3 @@
 Name: KARRI VANI
 Course: BCA
-Github is interesting
+One thing I learned: GitHub helps in version control and collaboration on projects.
